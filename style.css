@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: Verdana;
+}
+
+#rollBtn {
+    margin-top: 20px;
+    font-size: 3em;
+    padding: 5px 25px;
+    border-radius: 4px;
+    background-color: red;
+    color: #000;
+    border: 3px solid #000;
+}
+
+.labelBtn {
+    font-size: 3em;
+}
